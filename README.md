@@ -19,9 +19,8 @@ Application  has following features.
     - [Product Desciption Page]
     - [User authentication]
     - [watch ,watch later ,fav Screen]
-    - Adim component to add new product - /productAdd (https://62c589d9f95425207f28e306--fabulous-dasik-cc970c.netlify.app/productAdd)
+    - Admin component to add new product - /productAdd (https://62c589d9f95425207f28e306--fabulous-dasik-cc970c.netlify.app/productAdd)
     - [System Translations]
 - [Data Handelling]
 - [Unit Testing]
 
-attempted  the Bounus for language translations.
